@@ -13,7 +13,7 @@ Retrieve the password for Bandit Level 3 by finding the `inhere` directory and r
 ## Steps
 
 ### Step 1: Connect to the Server
-Use **SSH** to connect to the Bandit Level 2 server:
+Use **SSH** to connect to the Bandit Level 3 server:
 - **Host**: `bandit.labs.overthewire.org`
 - **Username**: `bandit3`
 - **Port**: `2220`
