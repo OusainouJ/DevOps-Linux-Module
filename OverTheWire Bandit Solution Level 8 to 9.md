@@ -61,6 +61,6 @@ The `sort` command is a powerful command which sorts the lines of a file, in com
 
 ### 2. **Basic Linux Commands**
 - `sort`: sort lines of the text file.
-- - `uniq -u`: removes repeated lines and displays the uniqe lines.
-- - `|`: takes output from one command and uses it as input for another.
+- `uniq -u`: removes repeated lines and displays the uniqe lines.
+- `|`: takes output from one command and uses it as input for another.
 ---
