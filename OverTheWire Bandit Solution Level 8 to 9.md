@@ -31,8 +31,8 @@ dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
 
 ---
 
-### Step 2: Find the file next to the word millionth:
-Extract the password which is next to the word millionth:
+### Step 2: Find the only line of text that occurs only once:
+Sort the data.txt file and display the entry that shows once:
 ```bash
 sort data.txt | uniq -u
 ```
