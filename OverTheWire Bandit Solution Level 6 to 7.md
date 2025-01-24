@@ -18,7 +18,7 @@ Retrieve the password for Bandit Level 7 by finding the file with the specific p
 ## Steps
 
 ### Step 1: Connect to the Server
-Use **SSH** to connect to the Bandit Level 4 server:
+Use **SSH** to connect to the Bandit Level 6 server:
 - **Host**: `bandit.labs.overthewire.org`
 - **Username**: `bandit6`
 - **Port**: `2220`
@@ -48,7 +48,7 @@ Output:
 
 ---
 
-### Step 4: Read the file which has been found:
+### Step 3: Read the file which has been found:
 Reading the file:
 ```bash
 cat /var/lib/dpkg/info/bandit7.password
@@ -61,7 +61,7 @@ morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
 
 ---
 
-### Step 5: Document the Password
+### Step 4: Document the Password
 Password for **Level 7**:
 ```
 morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
