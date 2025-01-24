@@ -7,7 +7,7 @@ The **Bandit** wargame by OverTheWire teaches basic Linux commands and security.
 ---
 
 ## Objective
-Retrieve the password for Bandit Level 9 by finding the file with the specific properties and reading the file on the Bandit Level 8 server.
+Retrieve the password for Bandit Level 9 by finding the password in data.txt where the password is on the only line of text that occurs only once.
 
 ---
 
