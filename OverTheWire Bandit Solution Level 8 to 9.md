@@ -45,7 +45,7 @@ Output:
 ---
 
 ### Step 3: Document the Password
-Password for **Level 8**:
+Password for **Level 9**:
 ```
 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
 ```
