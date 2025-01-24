@@ -6,7 +6,7 @@ The **Bandit** wargame by OverTheWire teaches basic Linux commands and security.
 ---
 
 ## Objective
-Retrieve the password for Bandit Level 4 by finding the `inhere` directory and reading the file on the Bandit Level 4 server.
+Retrieve the password for Bandit Level 5 by finding the `inhere` directory and reading the file on the Bandit Level 4 server.
 
 ---
 
@@ -49,7 +49,7 @@ Output:
 
 ---
 
-### Step 3: Show all file types:
+### Step 4: Show all file types:
 Show the file types for each file:
 ```bash
 file ./* 
@@ -71,7 +71,7 @@ Output:
 
 ---
 
-### Step 4: Read the File:
+### Step 5: Read the File:
 Display the contents of the `-file07` file:
 ```bash
  cat ./-file07
@@ -84,7 +84,7 @@ Output:
 
 ---
 
-### Step 5: Document the Password
+### Step 6: Document the Password
 Password for **Level 4**:
 ```
 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
