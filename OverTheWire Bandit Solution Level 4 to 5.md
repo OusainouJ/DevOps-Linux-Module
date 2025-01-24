@@ -20,7 +20,7 @@ Use **SSH** to connect to the Bandit Level 4 server:
 
 Run:
 ```bash
-ssh bandit3@bandit.labs.overthewire.org -p 2220
+ssh bandit4@bandit.labs.overthewire.org -p 2220
 ```
 
 When prompted for a password, enter:
